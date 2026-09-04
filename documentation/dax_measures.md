@@ -2,8 +2,8 @@
 
 ## 1. Spend Measures
 
-```
 **Total Spend**  
+```
 Total Spend = SUM(Finance_Expenditure[Amount])
 
 **Average Transaction Value**  
