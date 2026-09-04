@@ -2,12 +2,13 @@
 
 ## 1. Spend Measures
 
+```
 **Total Spend**  
 Total Spend = SUM(Finance_Expenditure[Amount])
 
 **Average Transaction Value**  
 Avg Transaction Value = AVERAGE(Finance_Expenditure[Amount])
-
+```
 
 ## 2. Date Table (Fiscal Year: April → March)
 
