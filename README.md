@@ -34,7 +34,7 @@ The semantic model follows a rigid Star Schema deployment utilising one-to-many 
 * **Financial_Expenditure ➔ Supplier (1:*)**: Maps unique vendor dimensions down to transactional invoice entries, unlocking multi-tier contractor spend aggregations.
 * **Financial_Expenditure ➔ Category (1:*)**: Links corporate procurement categories to line items to track internal operational expense area.
 * **Financial_Expenditure ➔ Date_Table (1:*)**: Binds the custom fiscal timeline to the transactional registry to drive all downstream trend analysis and accounting period calculations.
-! [](Data_Model.png)
+![](Data_Model.png)
 
 #
 
