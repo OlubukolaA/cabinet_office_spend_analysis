@@ -1,4 +1,7 @@
-# DAX Measures — Cabinet Office Spend Analysis
+# DAX Measures - Cabinet Office Spend Analysis
+
+These DAX measures were developed for the Cabinet Office Spend Analysis dashboard. They calculate total and average spend, create a fiscal calendar (April–March), and support month‑on‑month trend analysis.
+
 
 ## 1. Spend Measures
 
